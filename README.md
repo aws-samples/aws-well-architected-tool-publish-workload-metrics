@@ -6,7 +6,7 @@ This project defines a process to collect and publish cloudwatch metrics for you
 ![Dashboard](./img/well-architected-metrics-dashboard.png)
 
 ## Why
-Being able to visualize work as it progresses throughtout its lifecycle can be benefitial. In addition to visualization via dashboards, cloudwatch alarms can be created to notify your team when workloads have reached various states based on the metrics published. For example, if a workload has more than x unanswered questions, send a notification alerting you team to start addressing the unanswered workload questions.
+Being able to visualize work as it progresses throughtout its lifecycle can be beneficial. In addition to visualization via dashboards, cloudwatch alarms can be created to notify your team when workloads have reached various states based on the metrics published. For example, if a workload has more than x unanswered questions, send a notification alerting you team to start addressing the unanswered workload questions.
 
 ## How
 1. Clone this repo and `cd` into project directory
